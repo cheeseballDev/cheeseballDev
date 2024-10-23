@@ -1,4 +1,4 @@
-<h1 align="center">よろしくね ! Cheeseballです !</h1>
+<h1 align="center">はじめまして ! Cheeseballです !</h1>
 <h3 align="center">I love studying IT-related things. Especially Java!</h3>
 <img align="right" "Ado" width="250" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **cheeseballbusinessemail@gmail.com** or **.cheeseball_** (discord username)
+- 📫 How to reach me **cheeseballbusinessemail@gmail.com** or **.cheeseball_** (discord)
 
 - ⚡ Fun fact **I am multilingual** (excluding programming languages www)
 
