@@ -1,4 +1,4 @@
-<h1 align="center">よろしくね ! Cheeseballです！</h1>
+<h1 align="center">よろしくね 💙 Cheeseballです 💙</h1>
 <h3 align="center">I like studying IT-related things. Especially Java!</h3>
 <img align="right" "Ado" width="300" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
 
