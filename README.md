@@ -1,5 +1,5 @@
 <h1 align="center">よろしくね ! Cheeseballです !</h1>
-<h3 align="center">I like studying IT-related things. Especially Java!</h3>
+<h3 align="center">I love studying IT-related things. Especially Java!</h3>
 <img align="right" "Ado" width="300" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeseballdev&label=Profile%20views&color=0e75b6&style=flat" alt="cheeseballdev" /> </p>
@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **anything Java related!**
 
-- 🤝 I’m looking for help with **learning more about programming (and getting a job)!**
+- 🤝 I’m looking for help with **learning more about programming (and getting a job maybe hmm) !**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **cheeseballbusinessemail@gmail.com**
+- 📫 How to reach me **cheeseballbusinessemail@gmail.com** or **.cheeseball_** (discord username)
 
 - ⚡ Fun fact **I am multilingual (excluding programming languages www)**
 
