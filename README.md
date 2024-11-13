@@ -1,6 +1,6 @@
 <h1 align="center">はじめまして ! Cheeseballです !</h1>
 <h3 align="center">I love studying IT-related things. Especially Java!</h3>
-<img align="right" "Ado" width="250" src="https://media.tenor.com/yIX_27rQAIkAAAAM/ado-ado-cute.gif">
+<img align="right" "Ado" width="250" src="https://tenor.com/view/ado-dance-ado-freedom-ado-gif-16477339655108928250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeseballdev&label=Profile%20views&color=0e75b6&style=flat" alt="cheeseballdev" /> </p>
 
