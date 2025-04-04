@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [JeepneyXpress](https://github.com/mothlabs/JeepneyXpressUser)
 
-- 🌱 I’m currently learning **Python, MongoDB, Web & Mobile App Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👯 I’m looking to collaborate on **anything Java related!**
 
-- 🤝 I’m looking for help with **learning more about programming (and getting a job maybe hmm) !**
+- 🤝 I’m looking for help with **learning more about programming !**
 
 - 💬 Ask me about **Java**
 
