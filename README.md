@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeseballdev&label=Profile%20views&color=0e75b6&style=flat" alt="cheeseballdev" /> </p>
 
-- 🔭 I’m currently working on [STI Queueing Application + Admin Website](https://github.com/cheeseballDev/sti-queueing-app)
+- 🔭 I’m currently working on [Inventory System for Parfum Shop]([https://github.com/cheeseballDev/sti-queueing-app](https://github.com/cheeseballDev/InventorySystem))
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **anything Java related!**
 
