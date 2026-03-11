@@ -1,6 +1,6 @@
 <h1 align="center">はじめまして ! Cheeseballです !</h1>
 
-<img align="right" "Ado" width="250" src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif">
+<img align="right" alt="Ado" width="250" src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeseballdev&label=Profile%20views&color=0e75b6&style=flat" alt="cheeseballdev" /> </p>
 
