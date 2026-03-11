@@ -1,7 +1,5 @@
-<h1 align="center">
-  はじめまして ! Cheeseballです !
-  <small>“Reliable, tenacious, ambitious, and always ready to be of your service.”</small>
-</h1>
+<h1 align="center"> はじめまして ! Cheeseballです !</h1>
+<p align="center">“Reliable, tenacious, ambitious, and always ready to be of your service.”<i></p>
 
 <img align="right" alt="Ado" width="250" src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif">
 
@@ -9,7 +7,7 @@
 
 - 🎭 Roles: Junior Full-Stack Software Developer, IT Support, Linguist, Sales, Teacher
 
-- 🗨️ About: That guy who almost everyone calls whenever technology fails them. The rest about me is for you to find out once you get to know more about me.
+- 🗨️ About: That guy who always goes beyond and everyone calls whenever technology fails them. The rest about me is for you to find out once you get to know more about me.
 
 - 📫 Contact me: **cheeseballbusinessemail@gmail.com**
 
