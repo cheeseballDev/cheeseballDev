@@ -1,6 +1,8 @@
-<h1 align="center">はじめまして ! Cheeseballです !</h1>
+<h1 align="center">
+  はじめまして ! Cheeseballです !
+  <small>“Reliable, tenacious, ambitious, and always ready to be of your service.”</small>
+</h1>
 
-<h2 align="center">“Reliable, tenacious, ambitious, and always ready to be of your service.”</h2>
 <img align="right" alt="Ado" width="250" src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeseballdev&label=Profile%20views&color=0e75b6&style=flat" alt="cheeseballdev" /> </p>
