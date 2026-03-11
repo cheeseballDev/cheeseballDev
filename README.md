@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeseballdev&label=Profile%20views&color=0e75b6&style=flat" alt="cheeseballdev" /> </p>
 
-- 🗨️ About:
+🗨️ About:
   - That guy who everyone calls whenever technology fails them. 
   - I get hyperfixated on anything I really want to solve (especially software bugs)
   - The rest about me is for you to find out once you get to know more about me.
