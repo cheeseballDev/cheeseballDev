@@ -41,7 +41,7 @@
       <ul>
         <li>🇺🇸 <b>EN:</b> Native / Fluent</li>
         <li>🇵🇭 <b>TL:</b> Native / Fluent</li>
-        <li>🇯🇵 <b>JP:</b> N4 Level</li>
+        <li>🇯🇵 <b>JP:</b> N5 Level</li>
         <li>🇷🇺 <b>RU:</b> Conversational</li>
       </ul>
     </td>
